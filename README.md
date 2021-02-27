@@ -9,3 +9,4 @@ A cheatsheet to help me keep straight how to do stuff in python.
 - [Setting Up Local Environments](./docs/setting_up.md)
 - [Using Virtual Environments](./docs/virtual_envs.md)
 - [Installing with Pip](./docs/pip.m)
+- [Running Python Based Tools](./docs/pipx.md)
