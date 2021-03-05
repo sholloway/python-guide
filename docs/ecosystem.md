@@ -30,12 +30,12 @@ of the Python source.
 
 | Tool Name                                                  | Description                          |
 | ---------------------------------------------------------- | ------------------------------------ |
-| [setuptools](https://setuptools.readthedocs.io/en/latest/) | Packages Python Projects             |
-| [mypy](http://www.mypy-lang.org/)                          | Enforce Typing                       |
-| [pytest](https://docs.pytest.org/en/latest/)               | Testing Framework                    |
-| [coverage](https://github.com/nedbat/coveragepy)           | Test Coverage                        |
-| [pyflakes](https://github.com/PyCQA/pyflakes)              | Static Checker                       |
-| [flake8](https://gitlab.com/pycqa/flake8)                  | Sits on top of pyflakes              |
 | [black](https://github.com/psf/black)                      | Code formatter                       |
+| [coverage](https://github.com/nedbat/coveragepy)           | Test Coverage                        |
+| [flake8](https://gitlab.com/pycqa/flake8)                  | Sits on top of pyflakes              |
+| [mypy](http://www.mypy-lang.org/)                          | Enforce Typing                       |
 | [pipx](https://pipxproject.github.io/pipx/)                | Install Python based programs        |
 | [poetry](https://python-poetry.org/)                       | Dependency management and Build Tool |
+| [pyflakes](https://github.com/PyCQA/pyflakes)              | Static Checker                       |
+| [pytest](https://docs.pytest.org/en/latest/)               | Testing Framework                    |
+| [setuptools](https://setuptools.readthedocs.io/en/latest/) | Packages Python Projects             |
