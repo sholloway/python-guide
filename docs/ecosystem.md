@@ -39,3 +39,23 @@ of the Python source.
 | [pyflakes](https://github.com/PyCQA/pyflakes)              | Static Checker                       |
 | [pytest](https://docs.pytest.org/en/latest/)               | Testing Framework                    |
 | [setuptools](https://setuptools.readthedocs.io/en/latest/) | Packages Python Projects             |
+
+## Handy Modules
+
+| Tool Name                                                       | Description                            |
+| --------------------------------------------------------------- | -------------------------------------- |
+| [Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/) | HTML Parsing                           |
+| [Flask](https://flask.palletsprojects.com/)                     | Websites & Services                    |
+| [tqdm](https://github.com/tqdm/tqdm)                            | Terminal Progress Bars                 |
+| [progress](https://pypi.org/project/progress/)                  | Terminal Progress Bars                 |
+| [python-dateutil](https://dateutil.readthedocs.io/en/stable/)   | Date/Time Utilities                    |
+| [chardet](https://chardet.readthedocs.io/en/latest/usage.html)  | Detect the charset of a file or stream |
+| [requests](https://requests.readthedocs.io/en/master/)          | HTTP Requests                          |
+| [jmespath](http://jmespath.org/)                                | A query language for JMS               |
+| [pillow](https://pillow.readthedocs.io/en/stable/)              | Image framework                        |
+
+## Data Visualization Modules and Tools
+
+| Tool Name                       | Description   |
+| ------------------------------- | ------------- |
+| [Dash](http://dash.plotly.com/) | Data Viz Apps |
